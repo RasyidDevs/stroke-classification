@@ -1,4 +1,4 @@
-#  Heart Disease
+#  Stroke Classification
 This project mainly focused on creating predictive model, Our goals is to achieve the best recall
 
 ---
